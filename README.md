@@ -2,8 +2,7 @@
 <h3 align="center">A passionate cross platform developer from Turkey</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mustafkgl&label=Profile%20views&color=0e75b6&style=flat" alt="mustafkgl" /> </p>
-<div align="center"> <img src="https://wakatime.com/badge/user/1ec50b77-9854-4181-b358-b6d9fd23b580.svg" /> </div>
-<p align="center">
+
 - 🌱 I’m currently learning **Flutter**
 </p>
 <h3 align="center">Connect with me:</h3>
