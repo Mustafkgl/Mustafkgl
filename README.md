@@ -2,3 +2,4 @@
 
 <p align="center">
   <strong>Penetration Tester &nbsp;·&nbsp; Application Security &nbsp;·&nbsp; DevSecOps &nbsp;·&nbsp; Software Engineer</strong>
+</p>
