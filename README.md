@@ -15,3 +15,5 @@
 ---
 
 ## About
+
+Software Engineering graduate combining offensive security expertise with secure development depth.
