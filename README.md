@@ -17,3 +17,5 @@
 ## About
 
 Software Engineering graduate combining offensive security expertise with secure development depth.
+
+- Conducted full-scope penetration tests across web, mobile, and network attack surfaces, identifying **5 Critical and 12 High severity vulnerabilities** and delivering a **120-page CVE-aligned report** that directly led the client to establish its first dedicated security function
