@@ -21,3 +21,4 @@ Software Engineering graduate combining offensive security expertise with secure
 - Conducted full-scope penetration tests across web, mobile, and network attack surfaces, identifying **5 Critical and 12 High severity vulnerabilities** and delivering a **120-page CVE-aligned report** that directly led the client to establish its first dedicated security function
 - Built a zero-dependency DevSecOps CI/CD pipeline with SBOM generation and configurable severity gates; hardened a Docker image from **1,675 to 12 CVEs (99.3% reduction)**
 - **TEKNOFEST 2024 1st Place Winner**, shipped a real-time embedded control system as UI Dev Lead on a ~20-member engineering team
+- Active on HackTheBox, PortSwigger Web Academy, and Hackviser
