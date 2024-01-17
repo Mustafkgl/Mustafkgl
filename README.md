@@ -24,3 +24,5 @@ Software Engineering graduate combining offensive security expertise with secure
 - Active on HackTheBox, PortSwigger Web Academy, and Hackviser
 
 ---
+
+## Skills
