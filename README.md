@@ -26,3 +26,5 @@ Software Engineering graduate combining offensive security expertise with secure
 ---
 
 ## Skills
+
+<p align="left">
