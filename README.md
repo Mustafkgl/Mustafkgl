@@ -28,3 +28,4 @@ Software Engineering graduate combining offensive security expertise with secure
 ## Skills
 
 <p align="left">
+  <strong>Offensive Security &amp; AppSec</strong><br/><br/>
