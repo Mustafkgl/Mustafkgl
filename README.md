@@ -30,3 +30,4 @@ Software Engineering graduate combining offensive security expertise with secure
 <p align="left">
   <strong>Offensive Security &amp; AppSec</strong><br/><br/>
   <img src="https://img.shields.io/badge/Penetration_Testing-CC0000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
