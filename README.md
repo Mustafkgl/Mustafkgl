@@ -33,3 +33,4 @@ Software Engineering graduate combining offensive security expertise with secure
   <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white"/>
