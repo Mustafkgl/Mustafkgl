@@ -37,3 +37,4 @@ Software Engineering graduate combining offensive security expertise with secure
   <img src="https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ghidra-CC0000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
