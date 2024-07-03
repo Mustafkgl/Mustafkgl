@@ -41,3 +41,4 @@ Software Engineering graduate combining offensive security expertise with secure
 </p>
 
 <p align="left">
+  <strong>DevSecOps &amp; CI/CD</strong><br/><br/>
