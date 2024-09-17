@@ -50,3 +50,5 @@ Software Engineering graduate combining offensive security expertise with secure
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
   <img src="https://img.shields.io/badge/SBOM_/_CycloneDX-00ACD7?style=for-the-badge&logoColor=white"/>
 </p>
+
+<p align="left">
