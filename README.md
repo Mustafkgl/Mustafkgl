@@ -52,3 +52,4 @@ Software Engineering graduate combining offensive security expertise with secure
 </p>
 
 <p align="left">
+  <strong>Development</strong><br/><br/>
