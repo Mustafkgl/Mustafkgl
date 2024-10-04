@@ -53,3 +53,4 @@ Software Engineering graduate combining offensive security expertise with secure
 
 <p align="left">
   <strong>Development</strong><br/><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
