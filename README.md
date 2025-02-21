@@ -64,3 +64,5 @@ Software Engineering graduate combining offensive security expertise with secure
 ---
 
 ## Projects
+
+| Project | Description | Stack |
