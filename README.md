@@ -67,3 +67,4 @@ Software Engineering graduate combining offensive security expertise with secure
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [DevSecOps Security Pipeline](https://github.com/mustafkgl/DevSecOps) | Zero-dependency CI/CD pipeline (no 3rd-party actions) with SBOM generation, container scanning, and a bash/jq quality gate that fails builds on CVEs exceeding a configurable severity threshold | GitHub Actions · Syft · Grype · CycloneDX · SARIF |
