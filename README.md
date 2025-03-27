@@ -68,3 +68,4 @@ Software Engineering graduate combining offensive security expertise with secure
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [DevSecOps Security Pipeline](https://github.com/mustafkgl/DevSecOps) | Zero-dependency CI/CD pipeline (no 3rd-party actions) with SBOM generation, container scanning, and a bash/jq quality gate that fails builds on CVEs exceeding a configurable severity threshold | GitHub Actions · Syft · Grype · CycloneDX · SARIF |
+| [Secure Container Lab](https://github.com/mustafkgl/secure-container-lab) | Hardened a Node.js Docker image from 1,675 to 12 CVEs (99.3%) using Distroless base, multi-stage build, non-root execution, read-only filesystem, and --cap-drop=ALL | Docker · Trivy · Distroless |
