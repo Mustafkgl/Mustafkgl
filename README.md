@@ -71,3 +71,5 @@ Software Engineering graduate combining offensive security expertise with secure
 | [Secure Container Lab](https://github.com/mustafkgl/secure-container-lab) | Hardened a Node.js Docker image from 1,675 to 12 CVEs (99.3%) using Distroless base, multi-stage build, non-root execution, read-only filesystem, and --cap-drop=ALL | Docker · Trivy · Distroless |
 | [My Book Library](https://github.com/mustafkgl/My-Book-Library) | Full-stack library management system with security-first design: JWT auth, PBKDF2-SHA256 (600K iterations), RBAC, ORM-based injection protection, CSP/HSTS, rate limiting, audit logging; security score 92.5/100 | Flask · PostgreSQL · SQLAlchemy · Docker |
 | [Brain Tumor Classification (CNN)](https://github.com/mustafkgl/brain-tumor-cnn) | CNN achieving 96.48% accuracy on MRI brain tumor classification with automated training and evaluation pipeline | Python · TensorFlow |
+
+---
