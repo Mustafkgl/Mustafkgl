@@ -73,3 +73,5 @@ Software Engineering graduate combining offensive security expertise with secure
 | [Brain Tumor Classification (CNN)](https://github.com/mustafkgl/brain-tumor-cnn) | CNN achieving 96.48% accuracy on MRI brain tumor classification with automated training and evaluation pipeline | Python · TensorFlow |
 
 ---
+
+## GitHub Stats
