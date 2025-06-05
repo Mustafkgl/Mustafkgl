@@ -75,3 +75,5 @@ Software Engineering graduate combining offensive security expertise with secure
 ---
 
 ## GitHub Stats
+
+<div align="center">
