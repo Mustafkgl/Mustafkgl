@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa Akgül</h1>
-<h3 align="center">A passionate cross platform developer from Turkey</h3>
+<h3 align="center">A passionate cyber security specialist from Turkey</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mustafkgl&label=Profile%20views&color=0e75b6&style=flat" alt="mustafkgl" /> </p>
 <h3 align="center">- 🌱 I’m currently developing **Flutter** </h3>
