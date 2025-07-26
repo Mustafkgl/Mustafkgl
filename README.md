@@ -78,3 +78,4 @@ Software Engineering graduate combining offensive security expertise with secure
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafkgl&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <br/><br/>
