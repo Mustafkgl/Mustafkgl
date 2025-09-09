@@ -82,3 +82,4 @@ Software Engineering graduate combining offensive security expertise with secure
   <img src="https://streak-stats.demolab.com?user=mustafkgl&theme=radical&hide_border=true" alt="GitHub Streak"/>
   <br/><br/>
   <a href="https://github.com/ryo-ma/github-profile-trophies">
+    <img src="https://github-profile-trophies.vercel.app/?username=mustafkgl&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="mustafkgl"/>
