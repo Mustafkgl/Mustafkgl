@@ -6,7 +6,7 @@
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://x.com/mustafkgl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="mustafkgl" height="30" width="40" /></a>
+<a href="https://x.com/mustafkgl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mustafkgl" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mustafkgl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa-akgül" height="30" width="40" /></a>
 <a href="https://instagram.com/mustafkgl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mustafkgl" height="30" width="40" /></a>
 <a href="https://discord.gg/mustafkgl#1057" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mustafkgl#1057" height="30" width="40" /></a>
