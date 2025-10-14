@@ -84,3 +84,4 @@ Software Engineering graduate combining offensive security expertise with secure
   <a href="https://github.com/ryo-ma/github-profile-trophies">
     <img src="https://github-profile-trophies.vercel.app/?username=mustafkgl&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="mustafkgl"/>
   </a>
+</div>
