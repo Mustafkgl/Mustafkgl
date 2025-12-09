@@ -1,16 +1,56 @@
 <h1 align="center">Hi 👋, I'm Mustafa Akgül</h1>
-<h3 align="center">A passionate cyber security specialist from Turkey</h3>
+<h3 align="center">🛡️ DevSecOps Engineer | Container Security & Automation Enthusiast</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mustafkgl&label=Profile%20views&color=0e75b6&style=flat" alt="mustafkgl" /> </p>
-<h3 align="center">- 🌱 I’m currently developing **Python** </h3>
-</p>
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://x.com/mustafkgl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mustafkgl" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mustafkgl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa-akgül" height="30" width="40" /></a>
-<a href="https://instagram.com/mustafkgl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mustafkgl" height="30" width="40" /></a>
-<a href="https://discord.gg/mustafkgl#1057" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mustafkgl#1057" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mustafkgl" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="https://x.com/mustafkgl" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="twitter"/></a>
+  <a href="https://instagram.com/mustafkgl" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<p align="center">
+  Building the bridge between Software Development and Security. Designing automated and hardened infrastructures with a <b>"Shift Left"</b> mindset.
+</p>
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <br>
+  <img src="https://img.shields.io/badge/Trivy-000000?style=for-the-badge&logo=aquasecurity&logoColor=white" alt="Trivy"/>
+  <img src="https://img.shields.io/badge/Semgrep-3571A7?style=for-the-badge&logo=semgrep&logoColor=white" alt="Semgrep"/>
+  <img src="https://img.shields.io/badge/TruffleHog-E4405F?style=for-the-badge&logo=trufflesecurity&logoColor=white" alt="TruffleHog"/>
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+---
+
+### 🚀 Current Focus: "Distroless Architectures"
+
+I am currently conducting in-depth R&D on **Distroless Architectures** and **Runtime Security**. My goal is to develop **"Hardened"** container structures that minimize the attack surface by stripping away unnecessary OS packages.
+
+- 🌱 Exploring **Multi-Stage Builds** to optimize container images.
+- 🛡️ Implementing **Non-Root** execution principles.
+- 🔍 Automating vulnerability scanning with **Trivy** & **Semgrep**.
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/mustafkgl">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mustafkgl&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mustafa's Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafkgl&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
+</div>
+
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=mustafkgl&label=Profile%20views&color=0e75b6&style=flat" alt="mustafkgl" />
+</p>
