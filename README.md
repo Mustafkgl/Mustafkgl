@@ -43,12 +43,15 @@ I am currently conducting in-depth R&D on **Distroless Architectures** and **Run
 ### 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/mustafkgl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mustafkgl&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mustafa's Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafkgl&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/Mustafkgl">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mustafkgl&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Mustafa's Stats" />
+  </a>
+  
+  <a href="https://github.com/Mustafkgl">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafkgl&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </a>
 </div>
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=mustafkgl&label=Profile%20views&color=0e75b6&style=flat" alt="mustafkgl" />
+ <img src="https://komarev.com/ghpvc/?username=Mustafkgl&label=Profile%20views&color=0e75b6&style=flat" alt="mustafkgl" />
 </p>
