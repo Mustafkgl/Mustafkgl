@@ -51,7 +51,3 @@ I am currently conducting in-depth R&D on **Distroless Architectures** and **Run
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafkgl&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </a>
 </div>
-
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=Mustafkgl&label=Profile%20views&color=0e75b6&style=flat" alt="mustafkgl" />
-</p>
