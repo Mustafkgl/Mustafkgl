@@ -40,7 +40,17 @@ I am currently conducting in-depth R&D on **Distroless Architectures** and **Run
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Achievements
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafkgl&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <br/>
+  <a href="https://github.com/ryo-ma/github-profile-trophies">
+    <img src="https://github-profile-trophies.vercel.app/?username=mustafkgl&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="mustafkgl" />
+  </a>
+</div>
+
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=Mustafkgl&label=Profile%20views&color=0e75b6&style=flat" alt="mustafkgl" />
+ <img src="https://komarev.com/ghpvc/?username=mustafkgl&label=Profile%20views&color=0e75b6&style=flat" alt="mustafkgl" />
 </p>
